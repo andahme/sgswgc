@@ -13,6 +13,7 @@ permissions:
 
 env:
   STEP_3_FILE: ".github/steps/3-step.md"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   find_exercise:

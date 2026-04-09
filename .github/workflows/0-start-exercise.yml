@@ -12,6 +12,7 @@ permissions:
 
 env:
   STEP_1_FILE: ".github/steps/1-step.md"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   start_exercise:

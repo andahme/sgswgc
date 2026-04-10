@@ -14,7 +14,7 @@ permissions:
 
 env:
   STEP_4_FILE: ".github/steps/4-step.md"
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   find_exercise:
